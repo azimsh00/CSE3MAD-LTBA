@@ -73,3 +73,9 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# SonarCloud
+.scannerwork/
+sonar-project.properties.bak
+eslint-report.json
+*.sonar
