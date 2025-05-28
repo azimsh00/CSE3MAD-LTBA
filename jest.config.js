@@ -19,7 +19,7 @@ module.exports = {
     '!android/app/src/__tests__/**',
   ],
   // Coverage configuration for SonarCloud
-  collectCoverage: false, // Set to true when running coverage
+  collectCoverage: true, // Enabled for coverage collection
   coverageDirectory: 'coverage',
   coverageReporters: ['lcov', 'text', 'html'],
   coverageThreshold: {
