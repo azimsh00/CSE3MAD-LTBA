@@ -41,4 +41,4 @@ jobs:
       with:
         args: >
           -Dsonar.projectKey=cse3mad-ltba_cse3mad-ltba
-          -Dsonar.organization=CSE3MAD-LTBA 
+          -Dsonar.organization=cse3mad-ltba 
