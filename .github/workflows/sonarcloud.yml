@@ -40,5 +40,5 @@ jobs:
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}    # Generate a token on Sonarcloud.io
       with:
         args: >
-          -Dsonar.projectKey=your-organization_your-project-key
-          -Dsonar.organization=your-organization 
+          -Dsonar.projectKey=cse3mad-ltba_cse3mad-ltba
+          -Dsonar.organization=CSE3MAD-LTBA 
